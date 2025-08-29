@@ -1,0 +1,7 @@
+opencv-python
+numpy
+facenet-pytorch
+mediapipe
+pycuda
+
+#pip install -r requirements.txt
